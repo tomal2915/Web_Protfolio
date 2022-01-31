@@ -1,0 +1,91 @@
+body{
+    background-image: url("./Images/background.png");
+    background-repeat: no-repeat;
+    font-family: 'Neonderthaw', cursive;
+    border: 1px solid red;
+    margin: 0px;
+}
+.one{
+    background-color: rgb(62, 214, 219);
+    border-radius: 5px;
+    text-align: center;
+    font-size: 40px;
+    border-radius: 50px;
+}
+.name{
+    color: rgb(70, 2, 255);
+}
+section{
+    height: 500px;
+    padding-bottom: 10px;
+}
+/* .first-section{
+    margin-left: 5%;
+} */
+h2{ 
+     font-size: 70px; 
+     font-family: 'Neonderthaw', cursive; 
+     color: rgb(27, 107, 99);
+}
+h3{
+    font-size: 40px;
+    font-family: 'Neonderthaw', cursive; 
+    color: rgb(27, 107, 99);
+}
+p{
+    color: rgb(255, 4, 4);
+    font-size: 25px;
+}
+.first-half-1{
+    height: 300px;
+    width: auto;
+    float: left;
+    padding: 5%;
+}
+.first-img{
+    margin-top: 50px;
+    margin-left: 50px;
+    height: 300px;
+    float: right;
+    border-radius: 50px;
+}
+/* .second-half-1{
+    height: 300px;
+    width: auto;
+    float: right;
+    padding: 5%;
+} */
+.second-img{
+    margin-top: 10%;
+    height: 300px;
+    float: left;
+    border-radius: 50px;
+}
+.second-half-2{
+    height: auto;
+    width: auto;
+    float: left;
+    padding: 5%;
+}
+.first-half-3{
+    box-shadow: 10px 10px darkslategray;
+    height: auto;
+    width: auto;
+    float: left;
+    padding: 5%;
+}
+.first-half-3{
+    height: auto;
+    width: auto;
+    float: right;
+    padding: 5%;
+}
+.link-button{
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px 20px;
+    border-radius: 5px;
+    color: seashell;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+}
